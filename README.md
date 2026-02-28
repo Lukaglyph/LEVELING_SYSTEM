@@ -1,6 +1,6 @@
 Leveling System
 
-このプロジェクトは、人気漫画『俺だけレベルアップな件』のシステム画面をモチーフにした、自己研鑽のためのデイリークエスト・トラッカーです。
+このプロジェクトは、自己研鑽のためのデイリークエスト・トラッカーです。
 
 🚀 特徴
 
@@ -28,7 +28,8 @@ Google Fonts (Orbitron / Noto Sans JP)
 
 📖 使いかた
 
-index.html をブラウザで開きます。
+https://lukaglyph.github.io/LEVELING_SYSTEM/
+をブラウザで開きます。
 
 画面上の名前（デフォルト: user）をクリックして、プレイヤー名を変更します。
 
